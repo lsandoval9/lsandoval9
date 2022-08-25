@@ -4,7 +4,6 @@
 <br/>
 <img height="220em" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsandoval9&layout=compact&theme=dracula&count_private=true"/><br/><br/>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lsandoval9&custom_title=Contributions%20in%20the%20last%20month&hide_border=true&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <br/>
   <br/>
