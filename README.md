@@ -23,8 +23,12 @@
   <a href="https://www.oracle.com/java/">
   <img style="width: 15%" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   </a>
-  <a href="https://www.python.org/about/">
-    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="php"/>
+  
+  <a href="https://kotlinlang.org/">
+    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin"/>
+  </a>
+  <a href="https://dart.dev/">
+    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart"/>
   </a>
 </div>
 <br/>
@@ -38,15 +42,11 @@
   <a href="https://spring.io/why-spring" target="_blank">
 <img align="center" alt="Spring boot" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   </a>
-<a href="https://reactjs.org/" target="_blank" >
-<img align="center" alt="React" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+<a href="https://angular.io/" target="_blank" >
+<img align="center" width="15%" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   </a>
   <a href="https://expressjs.com/">
-    <img align="center" width="15%" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  </a>
-  <a href="https://redux.js.org/">
-    <img align="center" width="15%" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <a/>
+    <img align="center" width="15%" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <a href="https://getbootstrap.com/">
     <img align="center" width="15%" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
@@ -77,9 +77,8 @@
     <img align="center" width="15%" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   </a>
   </a>
-  <a href="https://nodejs.org/en/about/">
-    <img align="center" width="15%" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-
+  <a href="https://www.android.com/intl/es_es/what-is-android/">
+    <img align="center" width="15%" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
   </a>
 </div>
 <br/>
