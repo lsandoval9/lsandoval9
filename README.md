@@ -29,7 +29,7 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 <br/>
 <h2 align="center">📈 Stats</h2>
 
-<img height="550em" width="100%" align="center" src="https://github-readme-stats-seven-nu-20.vercel.app/api/top-langs/?username=lsandoval9&layout=donut-vertical&theme=material-palenight&count_private=true&exclude_repo=proyecto-cache&langs_count=10&hide=html,shell,scss,css, vim script, vim snippet"/><br/><br/>
+<img height="550em" width="100%" align="center" src="https://github-readme-stats-seven-nu-20.vercel.app/api/top-langs/?username=lsandoval9&layout=donut-vertical&theme=material-palenight&count_private=true&exclude_repo=proyecto-cache&langs_count=10&hide=html,shell,scss,css,vim script,vim snippet"/><br/><br/>
 
 
   <br/>
