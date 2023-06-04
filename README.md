@@ -1,15 +1,44 @@
 <h1 align="center">Welcome 👋</h1>
 
+<p>
+My name is Luis Sandoval. I am a software developer with experience in web <img style="width: 1em;" src="images/web.png"> and mobile development <img style="width: 1em;" src="images/android.png">. I am passionate about technology and I am always looking to learn new things.
+
+
+Feel free to contact me if you have any questions or if you want to collaborate on a project:
+</p>
+
+<br>
+<div align="center">
+
+## 📫 Contact me
+
+![https://twitter.com/lsandoval9_](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+&nbsp;
+![https://www.linkedin.com/in/lsandoval9/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+&nbsp;
+![mailto:lizarraga309@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+&nbsp;
+![mailto:lsandoval9_dev@outlook.com](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+&nbsp;
+![https://gitlab.com/lsandoval9](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
+
+</div>
+
+***
+
 <br/>
-<br/>
-<img height="220em" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsandoval9&layout=compact&theme=dracula&count_private=true"/><br/><br/>
+<h2 align="center">📈 Stats</h2>
+
+<img height="550em" width="100%" align="center" src="https://github-readme-stats-seven-nu-20.vercel.app/api/top-langs/?username=lsandoval9&layout=donut-vertical&theme=material-palenight&count_private=true&exclude_repo=proyecto-cache&langs_count=10&hide=html,shell,scss,css, vim script, vim snippet"/><br/><br/>
 
 
   <br/>
   <br/>
   
   ***
-  
+  <br/>
+  <br/>
+<h2 align="center">🛠️ Technologies & Tools</h2>
   <br/>
   <br/>
   <h3 align="center" style="margin-top: 10px">Languages</h3>
@@ -45,7 +74,7 @@
 <a href="https://angular.io/" target="_blank" >
 <img align="center" width="15%" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   </a>
-  <a href="https://expressjs.com/">
+  <a href="https://flutter.dev/">
     <img align="center" width="15%" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <a href="https://getbootstrap.com/">
     <img align="center" width="15%" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
@@ -84,10 +113,6 @@
 <br/>
 <br/>
   
-***
-  
-  <br>
-  <br>
-
+<hr>
 </div>
 
