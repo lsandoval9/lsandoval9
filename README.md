@@ -10,7 +10,7 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 <br>
 <div align="center">
 
-## 📫 Contact me
+<h3>📫 Contact me</h2>
 
 ![https://twitter.com/lsandoval9_](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 &nbsp;
@@ -27,7 +27,7 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 ***
 
 <br/>
-<h2 align="center">📈 Stats</h2>
+<h3 align="center">📈 Stats</h3>
 
 <img height="550em" width="100%" align="center" src="https://github-readme-stats-seven-nu-20.vercel.app/api/top-langs/?username=lsandoval9&layout=donut-vertical&theme=material-palenight&count_private=true&exclude_repo=proyecto-cache&langs_count=10&hide=html,shell,scss,css,vim%20script,vim%20snippet"/><br/><br/>
 
@@ -38,10 +38,11 @@ Feel free to contact me if you have any questions or if you want to collaborate 
   ***
   <br/>
   <br/>
-<h2 align="center">🛠️ Technologies & Tools</h2>
+<h3 align="center">🛠️ Technologies & Tools</h3>
   <br/>
   <br/>
-  <h3 align="center" style="margin-top: 10px">Languages</h3>
+  <h4 align="center" style="margin-top: 10px">Languages</h4>
+  <br/>
   <div align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img style="inline" align="center" alt="Javascript" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -66,7 +67,8 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 ***
 <br/>
 <br/>
-<h3 align="center">Frameworks / libraries</h3>
+<h4 align="center">Frameworks / libraries</h4>
+<br/>
 <div align="center">
   <a href="https://spring.io/why-spring" target="_blank">
 <img align="center" alt="Spring boot" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
@@ -88,8 +90,9 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 
 <br/>
 <br/>
-<h3 align="center"> Databases and tools </h3>
-<div align="center"> 
+<h4 align="center"> Databases and tools </h4>
+  <br/>
+<div align="center">
     <a href="https://www.postgresql.org/about/">
       <img align="center" width="15%" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     </a>
@@ -109,10 +112,8 @@ Feel free to contact me if you have any questions or if you want to collaborate 
   <a href="https://www.android.com/intl/es_es/what-is-android/">
     <img align="center" width="15%" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
   </a>
+  <br/>
+  <br/>
 </div>
-<br/>
-<br/>
-  
-<hr>
 </div>
 
