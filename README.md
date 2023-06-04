@@ -2,8 +2,7 @@
 
 <p>
 My name is Luis Sandoval. I am a software developer with experience in web <img style="width: 1em;" src="images/web.png"> and mobile development <img style="width: 1em;" src="images/android.png">. I am passionate about technology and I am always looking to learn new things.
-
-
+  
 Feel free to contact me if you have any questions or if you want to collaborate on a project:
 </p>
 
@@ -12,15 +11,13 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 
 <h3>📫 Contact me</h2>
 
-![https://twitter.com/lsandoval9_](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+[![Twitter Logo](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lsandoval9_)
 &nbsp;
-![https://www.linkedin.com/in/lsandoval9/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsandoval9/)
 &nbsp;
-![mailto:lizarraga309@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lsandoval9_dev@outlook.com)
 &nbsp;
-![mailto:lsandoval9_dev@outlook.com](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-&nbsp;
-![https://gitlab.com/lsandoval9](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
+[![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/lsandoval9)
 
 </div>
 
