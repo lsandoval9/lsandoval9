@@ -11,8 +11,7 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 
 <h3>📫 Contact me</h2>
 
-[![Twitter Logo](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lsandoval9_)
-&nbsp;
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsandoval9/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lsandoval9_dev@outlook.com)
