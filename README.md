@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋</h1>
 
 <p>
-  My name is Luis Sandoval. I am a software developer with experience in <b>Web</b> <img style="width: 1em;" src="images/web.png"> and <b>Android</b> <img style="width: 1em;" src="images/android.png"> development. I am passionate about technology and I am always looking to learn new things.
+  My name is Luis Sandoval. I am a software developer with experience in <b>Web</b> <img style="width: 1em;" src="images/infinity.png"> and <b>DevOps</b> <img style="width: 1em;" src="images/android.png"> development. I am passionate about technology and I am always looking to learn new things.
   
 Feel free to contact me if you have any questions or if you want to collaborate on a project:
 </p>
@@ -50,11 +50,15 @@ Feel free to contact me if you have any questions or if you want to collaborate 
   <img style="width: 15%" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   </a>
   
-  <a href="https://kotlinlang.org/">
-    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin"/>
+  <a href="https://opensource.com/resources/what-bash">
+    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash"/>
   </a>
-  <a href="https://dart.dev/">
-    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart"/>
+  <a href="https://www.python.org/about/">
+    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python"/>
+  </a>
+
+  <a href="https://go.dev/solutions/case-studies">
+    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="dart"/>
   </a>
 </div>
 <br/>
