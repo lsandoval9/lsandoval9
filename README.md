@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋</h1>
 
 <p>
-  My name is Luis Sandoval. I am a software developer with experience in <b>Web</b> <img style="width: 1em;" src="images/web.png"> and <b>DevOps</b> <img style="width: 1.3em;" src="images/infinity.png">. I am passionate about technology and I am always looking to learn new things.
+  My name is Luis Sandoval. I am a software developer with experience in <b>Web</b> <img style="width: 1em;" src="images/web.png"> and <b>DevOps</b> <img style="width: 1em;" src="images/infinity.png">. I am passionate about technology and I am always looking to learn new things.
   
 Feel free to contact me if you have any questions or if you want to collaborate on a project:
 </p>
