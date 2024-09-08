@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋</h1>
 
 <p>
-  My name is Luis Sandoval. I am a software developer with experience in <b>Web</b> <img style="width: 1em;" src="images/infinity.png"> and <b>DevOps</b> <img style="width: 1em;" src="images/android.png"> development. I am passionate about technology and I am always looking to learn new things.
+  My name is Luis Sandoval. I am a software developer with experience in <b>Web</b> <img style="width: 1em;" src="images/web.png"> and <b>DevOps</b> <img style="width: 1.3em;" src="images/infinity.png">. I am passionate about technology and I am always looking to learn new things.
   
 Feel free to contact me if you have any questions or if you want to collaborate on a project:
 </p>
@@ -58,7 +58,7 @@ Feel free to contact me if you have any questions or if you want to collaborate 
   </a>
 
   <a href="https://go.dev/solutions/case-studies">
-    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="dart"/>
+    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go"/>
   </a>
 </div>
 <br/>
@@ -76,8 +76,6 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 <a href="https://angular.io/" target="_blank" >
 <img align="center" width="15%" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   </a>
-  <a href="https://flutter.dev/">
-    <img align="center" width="15%" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <a href="https://getbootstrap.com/">
     <img align="center" width="15%" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
@@ -105,12 +103,15 @@ Feel free to contact me if you have any questions or if you want to collaborate 
   <a href="https://www.docker.com/why-docker/">
     <img align="center" width="15%" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   </a>
+  <a href="https://kubernetes.io/es/">
+    <img align="center" width="15%" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+  </a>
   <a href="https://ubuntu.com/">
-    <img align="center" width="15%" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="center" width="15%" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   </a>
   </a>
-  <a href="https://www.android.com/intl/es_es/what-is-android/">
-    <img align="center" width="15%" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
+  <a href="https://nginx.org/en/">
+    <img align="center" width="15%" alt="nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
   </a>
   <br/>
   <br/>
