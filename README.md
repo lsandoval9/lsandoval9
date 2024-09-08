@@ -77,7 +77,7 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 <img align="center" width="15%" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   </a>
   <a href="https://getbootstrap.com/">
-    <img align="center" width="15%" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+    <img align="center" width="15%" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
  </a>
 </div>
